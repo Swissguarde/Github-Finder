@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* import poppins from google font */
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.custom-card-image .card.image-full::before {
+  border-radius: 0.5rem;
+  opacity: 0.45;
+}
