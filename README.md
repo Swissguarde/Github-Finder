@@ -1,7 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-The purpose of this web application is to enable users search and get details of other github users, direct links to their repositories as well
+The purpose of this web application is to enable users search and get details of other github users, direct links to their repositories as well.
+
+
+## Dependencies used
+# React
+# Daisy UI
+# Tailwind CSS
+# React Icons
+# React router dom v6
 You can view this project live [Here](https://github-finder-swiss.netlify.app)
 ## Available Scripts
 
